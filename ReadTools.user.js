@@ -51,12 +51,13 @@ funcConfig = {
 // @name ReadTools
 // @namespace github.com/kerwin612
 // @description 在 屏幕左侧 右击 触发 上一页 按钮，在 屏幕右侧 右击 触发 下一页 按钮；“扩大”翻页的区域，提高翻页效率，提升阅读体验 / Right-click on the left side of the screen to trigger the previous page button, and right-click on the right side of the screen to trigger the next page button; "enlarge" the page turning area to improve page turning efficiency and improve the reading experience
-// @version 0.4
+// @version 0.5
 // @author kerwin612
 // @license MIT
 // @include *
 // @require https://openuserjs.org/src/libs/kerwin612/Kerwin612.js
 // @run-at document-start
+// @grant GM.getValue
 // @grant GM_getValue
 // @noframes
 // ==/UserScript==
